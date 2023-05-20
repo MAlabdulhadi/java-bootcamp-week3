@@ -7,7 +7,7 @@
 
 - file homeworkQ2-customer
 
-#Project3 
+# Project3 
 - has two method important 
 -  addProduct in MerchantStockController
 -  buyProduct in UserController
